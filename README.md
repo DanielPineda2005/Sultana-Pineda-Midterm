@@ -1,9 +1,9 @@
 # midterm 
 
-I am doing my midterm
+We are doing our midterm
 
 ## subject
-I am debating - Would you rather have the ability to fly or be invisible?
+We are debating - Would you rather have the ability to fly or be invisible?
 
 ## Installation
 
@@ -27,7 +27,7 @@ TODO: Write history
 
 ## Credits
 
-Zakia Sultana
+Zakia Sultana and Daniel Pineda
 
 ## License
 
